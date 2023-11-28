@@ -1,0 +1,7 @@
+# Vexiuf
+¿Que quieres que ponga aqui brou?
+
+JAVA DEVELOPER
+PYTHON DEVELOPER
+JAVASCRIPT DEV
+LEARNING RUST
