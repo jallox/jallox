@@ -1,21 +1,41 @@
-Hey there! Are you looking for a Java and TypeScript developer!
-# Hi, im Jayox
-## Also known as Vexiuf
+<h2 align="left">Hi 👋! My name is Jayox and I'm a developer, from Spain</h2>
 
----
-### About me
-I'm a experienced developer on TypeScript and JavaScript, and i'm getting used to Java development.
-I'm working in a lot of projects, principally on Spigot/Paper plugins
+###
 
----
-### My community
-Not now
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vexiuf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vexiuf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
----
-### Cope Studios
-CopeStudios is a multi-development studio
-[JOIN](https://discord.gg/6bExtykY87)
+###
 
-[![wakatime](https://wakatime.com/share/@018c6f38-2a48-4fff-91d1-4c472c18465d/aa27f8a4-6258-4db9-9675-262aa532be3b.png)](https://wakatime.com/)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+</div>
 
-[![wakatime](https://wakatime.com/badge/user/018c6f38-2a48-4fff-91d1-4c472c18465d/project/018c6f39-7501-4af4-a985-778446c00379.svg)](https://wakatime.com/badge/user/018c6f38-2a48-4fff-91d1-4c472c18465d/project/018c6f39-7501-4af4-a985-778446c00379)
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
