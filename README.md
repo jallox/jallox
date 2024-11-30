@@ -80,7 +80,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
-
+[![wakatime](https://wakatime.com/badge/user/018c6f38-2a48-4fff-91d1-4c472c18465d.svg)](https://wakatime.com/@018c6f38-2a48-4fff-91d1-4c472c18465d)
 ###
 ```bash
 $ echo "Developing for SCN"
