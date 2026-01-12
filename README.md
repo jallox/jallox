@@ -7,7 +7,7 @@
 💻 Passionate about **technology, automation, and modern infrastructure**.  
 🌐 I build open-source projects, bots, admin panels, and distributed systems.  
 🔥 Currently working at **SmartsHub** and **DynamicNodes**.  
-☁️ Big fan of **Cloudflare stack** (because AWS is just too much 😅).  
+☁️ Big fan of **Cloudflare stack** (simply an AWS hater).  
 
 ---
 
@@ -21,49 +21,11 @@
 
 ### 🏆 Achievements  
 - 🚀 Developer at **SmartsHub** → [github.com/Smarts-Hub](https://github.com/Smarts-Hub) | [discord.smartshub.dev](https://discord.smartshub.dev)  
-- 🌐 Developer at **DynamicNodes** → [dynamicnodes.net](https://dynamicnodes.net)  
+- 🌐 Developer at **MixelNodes** → [mixelnodes.com](https://mixelnodes.com/)  
 - 🛡️ Built license systems, admin dashboards, and advanced bots.  
 - 📡 Hosting & automation using **Cloudflare R2, KV, Workers & Pages**.  
 - 🖥️ Experience with **Pterodactyl panels** and ticket management systems.  
 
----
-
-### 🛠️ Tech Stack  
-
-<div align="center">
-  
-#### 🌐 Frontend & UI  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
-
-#### ⚙️ Backend & Infra  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-
-#### 🗄️ Databases & Cloud  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="40"/>
-
-#### 🔧 Tools  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40"/>
-
-</div>
 
 ---
 
@@ -81,4 +43,4 @@
 
 ### 📡 Contact & Work  
 🔹 **SmartsHub** → [github.com/Smarts-Hub](https://github.com/Smarts-Hub) | [discord.smartshub.dev](https://discord.smartshub.dev)  
-🔹 **DynamicNodes** → [dynamicnodes.net](https://dynamicnodes.net)  
+🔹 **MixelNodes** → [mixelnodes.com](https://mixelnodes.com/)   
