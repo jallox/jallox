@@ -6,10 +6,10 @@ I'm afraid of chinese computational power (aka. Ai).
 
 ❤️ Head of Infrastructure & Platform Engineering @MixelNodesHosting
 
- 🖥️ VPS & Game Hosting @ https://mixelnodes.com/
+ 🖥️ VPS & Game Hosting @ [https://mixelnodes.com/](https://link.jayox.dev/mxno)
 
 ```
-[https://flamingo-client.com](https://link.jayox.dev/flcl)
+https://link.jayox.dev/flcl
 https://jayox.dev       <--- My portfolio
-[https://mixelnodes.com/](https://link.jayox.dev/mxno)
+https://link.jayox.dev/mxno
 ```
